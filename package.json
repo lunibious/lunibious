@@ -1,0 +1,11 @@
+{
+  "name": "lunibious",
+  "version": "1.0.0",
+  "description": "lunibious is software company",
+  "main": "index.js",
+  "author": "anhyeonki",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
